@@ -1,3 +1,3 @@
-module github.com/komarov-a-kubsu/GoLab5
+module github.com/Timosssshka/lr5oblaka
 
 go 1.23.2
